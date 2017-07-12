@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "credential": {
+        "_GceAssertionCredentials__service_account_name": "default",
+        "_class": "GceAssertionCredentials",
+        "_module": "apitools.base.py.credentials_lib",
+        "_service_account_email": null,
+        "access_token": "ya29.EmSFBHLJspr2vNcWopBjBsgGPVKHa62d-mQw9Q-3aDN6h05Rh9iSjkRYCoPhIFxhV1BFuhiiW7nNqp9eL6JtVSVK9R6jkUX9BMdQgA6SDZI_ihszN9YL5c7wjd2JAv8AL-YWaIs2",
+        "assertion_type": null,
+        "client_id": null,
+        "client_secret": null,
+        "id_token": null,
+        "invalid": false,
+        "kwargs": {
+          "cache_filename": "/home/joseph_ruszkowski/.gsutil/gcecredcache"
+        },
+        "refresh_token": null,
+        "revoke_uri": "https://accounts.google.com/o/oauth2/revoke",
+        "scope": "https://www.googleapis.com/auth/logging.write https://www.googleapis.com/auth/monitoring.write https://www.googleapis.com/auth/servicecontrol https://www.googleapis.com/auth/devstorage.read_only https://www.googleapis.com/auth/service.management.readonly https://www.googleapis.com/auth/trace.append",
+        "scopes": [],
+        "token_expiry": "2017-07-12T21:37:03Z",
+        "token_info_uri": null,
+        "token_response": null,
+        "token_uri": "https://www.googleapis.com/oauth2/v4/token",
+        "user_agent": null
+      },
+      "key": {
+        "api_version": "v1",
+        "refresh_token": null
+      }
+    }
+  ],
+  "file_version": 1
+}
